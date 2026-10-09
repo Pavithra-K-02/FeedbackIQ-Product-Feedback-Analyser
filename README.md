@@ -32,30 +32,18 @@ The application provides an interactive Spring Boot dashboard and supports Gemin
 
 ### FeedbackIQ Dashboard
 
-Add a screenshot of your running dashboard here.
+<img width="1869" height="935" alt="Screenshot 2026-10-09 124745" src="https://github.com/user-attachments/assets/bd631040-d406-41c8-8fd6-78e351523b95" />
 
-```markdown
-![FeedbackIQ Dashboard](screenshots/dashboard.png)
-```
+
 
 ### Review Analysis Results
 
-Add a screenshot showing detected themes, sentiment analysis, priority scores, and recommendations.
+<img width="1781" height="960" alt="Screenshot 2026-10-09 124806" src="https://github.com/user-attachments/assets/5d5c31e8-c7f0-4f5d-bc64-cf4aed2a331b" />
+<img width="1667" height="923" alt="Screenshot 2026-10-09 124822" src="https://github.com/user-attachments/assets/baeb65d7-ef7c-47a1-a418-39be7ad83cd4" />
 
-```markdown
-![FeedbackIQ Analysis Results](screenshots/analysis-results.png)
-```
 
-**Adding screenshots to GitHub:**
 
-1. Create a folder named `screenshots` in your project root.
-2. Capture screenshots of your actual running dashboard.
-3. Save them as `dashboard.png` and `analysis-results.png` inside that folder.
-4. Commit and push the screenshots along with your README.
 
-Replace the example images with your real screenshots. Until the image files exist in the repository, these links will not display images.
-
----
 
 **Project:** FeedbackIQ — AI-Powered Product Feedback Analyser
 
